@@ -33,7 +33,7 @@ ai-augmented-dfir/
 │   └── threat-hunting-proactivo/
 │       ├── v1-SKILL.md
 ├── casos/
-│   ├── 2026-XX-watchmans-residue/
+│   ├── Holmes 2025 2 The Watchmans Residue/
 │   │   ├── writeup.md
 │   └── 2026-XX-<siguiente-caso>/
 │       └── ...
