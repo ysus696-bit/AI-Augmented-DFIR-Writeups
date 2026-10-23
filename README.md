@@ -52,7 +52,7 @@ ai-augmented-dfir/
 | Mapeo a MITRE ATT&CK | Agente de IA (propuesta) | Analista (yo, confirmación) |
 | Recomendaciones de mitigación | Analista (yo) | — |
 
-> Detalle completo del marco en [`docs/metodologia.md`](docs/metodologia.md).
+> Detalle completo del marco en [`metodologia.md`](metodologia.md).
 
 ## Stack y herramientas
 
