@@ -37,8 +37,7 @@ ai-augmented-dfir/
 │   │   ├── writeup.md
 │   └── 2026-XX-<siguiente-caso>/
 │       └── ...
-└── docs/
-    └── metodologia.md                 ← marco general de validación que uso en todos los casos
+└──metodologia.md                 ← marco general de validación que uso en todos los casos
 ```
 
 ## Marco de validación (resumen)
