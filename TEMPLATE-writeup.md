@@ -1,4 +1,4 @@
-# [Nombre del caso] — [Fuente: HTB Holmes CTF 2025 / CyberDefenders / etc.]
+# [Nombre del caso]
 
 **Fecha:** [YYYY-MM-DD]
 **Categoría:** [DFIR / SOC / Threat Hunting / Malware Analysis]
